@@ -1,1 +1,1 @@
-#This covers the essential math for data science series.
+## This covers the essential math for data science series.
