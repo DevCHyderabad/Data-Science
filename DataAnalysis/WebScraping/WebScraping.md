@@ -5,4 +5,4 @@ We can use </br>
 2. HTML Parsing </br>
 3. DOM Parsing </br>
 4. XPath </br>
-Or We can also scrape the web using Facebook Graph API
+Or </br> We can also scrape the web using Facebook Graph API
