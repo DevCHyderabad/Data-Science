@@ -16,7 +16,7 @@
 -   [Solve the Titatic Challenge](https://www.kaggle.com/c/titanic/data)
 -   [Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 -   [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
--   [Data Visvalization](https://www.kaggle.com/learn/data-visualization) 
+-   [Data Visualization](https://www.kaggle.com/learn/data-visualization) 
 -   [Pandas](https://www.kaggle.com/learn/pandas)
 -   [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
 -   [Deep Learning](https://www.kaggle.com/learn/deep-learning)
