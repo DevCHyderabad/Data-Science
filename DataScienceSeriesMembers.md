@@ -18,5 +18,6 @@ Team Name:- Baymax</br>
 
 Team Members:-[Anurag](https://github.com/AnuragAnalog), [Ravi Teja](https://github.com/ravitejacms), [Rahul](https://github.com/rahulbabloo)
 
-Github repo link:- [Try-every-ML-algorithm](https://github.com/AnuragAnalog/Try-every-ML-algorithm/)
+Github Repo Link:- [Try-every-ML-algorithm](https://github.com/AnuragAnalog/Try-every-ML-algorithm/)
+
 ----------------------------------------------------------------------------------------------------------------------------------
