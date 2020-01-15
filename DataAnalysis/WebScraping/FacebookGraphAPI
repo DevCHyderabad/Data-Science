@@ -1,0 +1,11 @@
+Facebook Graph API 
+We can extract user's data or pages' data using Graph API 
+
+Three important terms 
+1. Nodes - Individual Objects like Username, photo,pages, likes and comments
+2. Edges - Connections betweendifferent nodes
+3. Fields - Data of the objects like user's birthday date.
+
+
+
+Reference -https://developers.facebook.com/docs/graph-api/overview/
