@@ -21,3 +21,9 @@ Team Members:-[Anurag](https://github.com/AnuragAnalog), [Ravi Teja](https://git
 Github Repo Link:- [Try-every-ML-algorithm](https://github.com/AnuragAnalog/Try-every-ML-algorithm/)
 
 ----------------------------------------------------------------------------------------------------------------------------------
+Team Name:- Team EMBER</br>
+
+Team Members:-Sathya , Sharik , Surya Teja
+
+
+----------------------------------------------------------------------------------------------------------------------------------
