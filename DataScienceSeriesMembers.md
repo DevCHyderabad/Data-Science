@@ -28,5 +28,5 @@ Team Members:-Sathya , Sharik , Surya Teja
 
 ----------------------------------------------------------------------------------------------------------------------------------
 Team Name - Team Alpha </br>
-Team Members - Bhargav, Saketh </br>
+Team Members - Bhargav Sai K, Saketh G,Ravi Teja B</br>
 Github Repo Link - https://github.com/bhargavkantipudi/Data-Science </br>
