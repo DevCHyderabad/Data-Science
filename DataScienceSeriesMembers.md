@@ -21,9 +21,12 @@ Team Members:-[Anurag](https://github.com/AnuragAnalog), [Ravi Teja](https://git
 Github Repo Link:- [Try-every-ML-algorithm](https://github.com/AnuragAnalog/Try-every-ML-algorithm/)
 
 ----------------------------------------------------------------------------------------------------------------------------------
-Team Name:- Team EMBER</br>
+Team Name:- Team EMBER</br> 
 
 Team Members:-Sathya , Sharik , Surya Teja
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
+Team Name - Team Alpha </br>
+Team Members - Bhargav, Saketh </br>
+Github Repo Link - https://github.com/bhargavkantipudi/Data-Science </br>
