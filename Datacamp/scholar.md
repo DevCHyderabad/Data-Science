@@ -1,6 +1,6 @@
 ### Add your name and details in the below format.
-### Name -
-### Github Repo -
+### Name -Rahul Bhaskarini
+### Github Repo -https://github.com/abcrahul-ai
 ======= <br/>
 Name - Phaneendra Thota <br/>
 Github Repo - https://gitHub.com/phaneendrababu/Data-Science<br/>
