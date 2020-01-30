@@ -16,5 +16,7 @@ GitHub Repo - https://github.com/baktron <br/>
 =======<br/>
 Name - VIJAYA GOPINADH REDDY VELAGALA <br/>
 GitHub Repo - https://github.com/gopinadh5g7 <br/>
-
+=======<br/>
+Name - Divas Jindal <br/>
+GitHub Repo - https://github.com/divas-jindal <br/>
 
