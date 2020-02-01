@@ -19,5 +19,15 @@ GitHub Repo - https://github.com/gopinadh5g7 <br/>
 =======<br/>
 Name - Akshat Jain
 Github Repo -https://github.com/akshatj355/Data_Science <br/>
-
+=======
+Name - Divas Jindal <br/>
+GitHub Repo - https://github.com/divas-jindal <br/>
+=======
+Name - Anurag Peddi
+GitHub Repo - https://github.com/AnuragAnalog/Datacamp/
+Datacamp - https://www.datacamp.com/profile/anuragpeddi
+=======<br/> 
+Name - PAVAN KUMAR SINGH <br/>
+Github Repo - https://github.com/pksX01 <br/>
+=======<br/>
 
