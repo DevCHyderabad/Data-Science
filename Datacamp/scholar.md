@@ -4,7 +4,7 @@
 =======</br>
 Name - Tutika Naga Sai Sivani</br>
 Github Repo - https://github.com/tnss2012
-<br/>
+=======</br>
 Name -Rahul Bhaskarini <br/>
 Github Repo -https://github.com/abcrahul-ai <br/>
 ======= <br/>
@@ -26,12 +26,12 @@ Github Repo -https://github.com/akshatj355/Data_Science <br/>
 Name - Divas Jindal <br/>
 GitHub Repo - https://github.com/divas-jindal <br/>
 =======
-Name - Anurag Peddi
-GitHub Repo - https://github.com/AnuragAnalog/Datacamp/
-Datacamp - https://www.datacamp.com/profile/anuragpeddi
-=======<br/> 
+Name - Anurag Peddi <br/>
+GitHub Repo - https://github.com/AnuragAnalog/Datacamp/ <br/>
+Datacamp - https://www.datacamp.com/profile/anuragpeddi <br/>
+======= 
 Name - PAVAN KUMAR SINGH <br/>
 Github Repo - https://github.com/pksX01 <br/>
-=======<br/>
+=======
 
 
