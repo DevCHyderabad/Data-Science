@@ -19,4 +19,9 @@ GitHub Repo - https://github.com/gopinadh5g7 <br/>
 =======<br/>
 Name - Divas Jindal <br/>
 GitHub Repo - https://github.com/divas-jindal <br/>
+=======
+Name - Anurag Peddi
+GitHub Repo - https://github.com/AnuragAnalog/Datacamp/
+Datacamp - https://www.datacamp.com/profile/anuragpeddi
+
 
