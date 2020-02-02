@@ -12,7 +12,7 @@ Name - Phaneendra Thota <br/>
 Github Repo - https://gitHub.com/phaneendrababu/Data-Science<br/>
 ======= <br/>
 Name - Purnasai Gudikandula <br/>
-Github Repo - https://github.com/purnasai <br/>
+Github Repo - https://github.com/purnasai-soulpageit <br/>
 =======<br/>
 Name - Bakthyar Syed <br/>
 GitHub Repo - https://github.com/baktron <br/>
