@@ -13,7 +13,7 @@
 -   [Coding Challenges](https://www.codewars.com/?language=python)
 -   [Learn SQL](https://mystery.knightlab.com/)
 -   [Introduction to Data Science](https://www.youtube.com/watch?v=N6BghzuFLIg)
--   [Solve the Titatic Challenge](https://www.kaggle.com/c/titanic/data)
+-   [Solve the Titanic Challenge](https://www.kaggle.com/c/titanic/data)
 -   [Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 -   [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 -   [Data Visualization](https://www.kaggle.com/learn/data-visualization) 
